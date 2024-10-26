@@ -8,4 +8,4 @@ Pedro Henrique Souza Santos - 20060035
 
 ## Para executar os dois programas:
 
-?-induce(Hyp).
+``?-induce(Hyp).``
